@@ -50,7 +50,7 @@ The code expects the following directory structure:
 * All relevant code for each figure can be found in the folder with the corresponding name
 
 ### To run code
-Please note that you must change the variable **mainDir** in any script to reflect the main directory (See section titled "*Set up directory structure*" 
+Please note that you must change the variable **mainDir** in any script to reflect the main directory (See section titled "*Set up directory structure*")
 #### From scratch:
 * Download the raw data files and process them using the script **merge_clean_data.R** prior to running any other script.
 * Build ML models using the script **build_models.R** in the folder **fig_2/c_d**
