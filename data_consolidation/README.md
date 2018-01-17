@@ -2,7 +2,9 @@
 
 ## Main files:
 * merge_clean_data.R
-  * Pulls RT-qPCR data from csv files located in the folder *raw_data*
+  * **Important Note:**
+    * To run this script, you must change the variable **mainDir** to reflect the path to the main directory as described in the main instructions
+  * Pulls RT-qPCR data from csv files located in the folder **raw_data**
   * Linearly transform RT-qPCR threshold cycle values to estimated transcript counts and normalizes data to inputted plasma and qPCR volumes
   * Creates dataframe where samples from Denmark have been averaged using 3-week centered moving average
   * Saves data and gene lists of interests
