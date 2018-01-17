@@ -38,18 +38,12 @@ The code expects the following directory structure:
     * plot_theme.R (Located in **common_scripts** folder)
     * counts_gene_lists.RData (Located in **common_scripts** folder)
   * Sub-directories titled as followed:
-    * raw_data
-      * Contains 9 csv files
-    * data_consolidation
-      * Contains 4 R scripts
-    * fig_1
-      * Contains 1 R script
-    * fig_2
-      * Contains 4 sub-sub-directories
-    * fig_3
-      * Contains 2 sub-sub-directories
-    * supplement
-      * Contains 5 R scripts
+    * raw_data - contains 9 csv files
+    * data_consolidation - contains 4 R scripts
+    * fig_1 - contains 1 R script
+    * fig_2 - contains 4 sub-sub-directories
+    * fig_3 - contains 2 sub-sub-directories
+    * supplement - contains 5 R scripts
 
 ### Download raw data and relevant code
 * Data can be found in the folder raw_data.
