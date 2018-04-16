@@ -37,7 +37,7 @@ all_patient_avg_ga = rbind(avg_wrapper(downsample_no_cma, interval = 4, isGA = T
 all_patient_avg_dCD = rbind(avg_wrapper(downsample_no_cma, interval = 4, isGA = FALSE), avg_wrapper(counts_21, interval = 4, isGA = FALSE))
 
 placental = c('PLAC1', 'PTGER3') 
-immune = c('BPI', 'CD160', 'CD180', 'CD2', 'CD5', 'CEACAM6', 'CNOT7', 'ENAH', 'EPB42', 'HMGN2', 'KRT8', 'NFATC1', 'NFATC2', 'SAMD9', 'SLC4A1') 
+immune = c('BPI', 'CD160', 'CD180', 'CD2', 'CD5', 'CEACAM6', 'CNOT7', 'EPB42', 'HMGN2', 'KRT8') 
 
 genes_all=rbind(placental, immune)
 
