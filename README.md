@@ -1,5 +1,5 @@
 # pregnancy_cfRNA
-Repository to reproduce analyses from manuscript titled "A noninvasive blood test for fetal development predicts gestational age and preterm delivery"
+Repository to reproduce analyses from manuscript titled "Noninvasive blood test for fetal development predict gestational age and preterm delivery"
 
 # To run the code
 
