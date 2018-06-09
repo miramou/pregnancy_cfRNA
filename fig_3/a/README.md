@@ -1,5 +1,5 @@
 # Run Order:
-Run fig_3a_edgeR.R first to generate the csv file **data_combined_edgeR.csv**
+Run fig_3a_edgeR.R first to generate the csv file **data_combined_edgeR.csv**.
 Note that if you do not want to run fig_3a_edgeR.R, the outputted csv file **data_combined_edgeR.csv** is also contained in this folder and may be used instead.
 
 # File description:
